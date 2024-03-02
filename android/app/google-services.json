@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260963814229",
+    "project_id": "evalifecare-dev",
+    "storage_bucket": "evalifecare-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260963814229:android:3053bcadec49c861063ddc",
+        "android_client_info": {
+          "package_name": "com.whistlemind.evalifecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260963814229-jfbrtgb0gfeobrc5t3g5fr73jm5ek1nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi59BsgrziDBs5SaBUGpXYCI7bU9UP3k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260963814229-jfbrtgb0gfeobrc5t3g5fr73jm5ek1nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
